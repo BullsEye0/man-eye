@@ -5,17 +5,24 @@ I recommend to watch the video so you can see the install the various options, h
 
 Here you can read the article on BullsEye0.com
 
-Somehow the man pages always remind me a bit of the past, to old school. I've also been told by "Linux people" that they learned Linux just by reading the manual pages. How cool is that.!
+Somehow the man pages always remind me a bit of the past, to old school. I've also been told by "Linux people" that they **learned Linux just by reading the manual pages**. How cool is that.!
 
-This is nonsense, of course, or am I wrong here that the man pages have to do with the past. I went to find out and looked it up.
+This is nonsense, of course, **or am I wrong** here that the man pages have to do with the past. I went to find out and looked it up.
 
 In the first two years of the history of Unix, no documentation existed. The first Unix Programmer's Manual was first published on November 3, 1971.
 
 So actually the man pages have been around for so long, even before people started using the Internet, the world wide web (www) and even before Microsoft existed.
 
+***
+
+![Learn Linux Through Man Pages](learn-linux-manpages.png)
+
+***
+
 ## Man Eye
 
-To be able to use Man Eye, some other "awesome" tools have to be installed.
+To be able to use Man Eye, some other "awesome" tools have to be installed. This depends a bit on which Linux distribution you use.
+This script has been tested on Debian-based and Arch Linux.
 
 `sudo apt install suckless-tools`
 
