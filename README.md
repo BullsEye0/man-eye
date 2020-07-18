@@ -83,6 +83,8 @@ Have fun ..! 😃
 # Contact to coder
 Social Networks - Connect
 
+Jolanda de Koff or Bulls Eye
+
 * Website [HackingPassion.com](https://hackingpassion.com)
 
 * Website [BullsEye0.com](https://bullseye0.com)
@@ -96,6 +98,8 @@ Social Networks - Connect
 * [Facebook Page](https://www.facebook.com/ethical.hack.group)
 
 * [Facebook Group](https://www.facebook.com/groups/ethical.hack.group/)
+
+* Email: [jolanda@bullseye0.com](mailto:jolanda@bullseye0.com)
 
 
 ## Buy me a coffee
