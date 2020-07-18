@@ -60,7 +60,7 @@ bash man-eye.sh
 ## There are 5 options you can use 
 
 - **Random-Man-Page** 
-    As the name predicts, this option chooses a random manual page. Maybe a great idea to select and learn a random Man Eye page every day :smily:
+    As the name predicts, this option chooses a random manual page. Maybe a great idea to select and learn a random Man Eye page every day 😃
  
 - **Search-Man-Pages**
     This option allows you to search for a manual page via the dmenu
