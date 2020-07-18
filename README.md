@@ -3,6 +3,7 @@
 How cool would it be to learn Linux through the man pages To make it even more fun, I made this script with various options and with a cool retro terminal.
 
 I recommend watching the video so you can see the install the various options, how you can adjust this script to your own needs, and some other cool things.
+
 Here you can read the article on BullsEye0.com
 
 ***
