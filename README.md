@@ -50,7 +50,9 @@ sudo apt install fzf
 
 ## Or in one line: 
 
-`sudo apt install suckless-tools zathura groff cool-retro-term fzf`
+```bash
+sudo apt install suckless-tools zathura groff cool-retro-term fzf
+```
 
 *****
 
