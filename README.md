@@ -27,15 +27,25 @@ So actually the man pages have been around for so long, even before people start
 To be able to use Man Eye, some other "awesome" tools have to be installed. This depends a bit on which Linux distribution you use.
 This script has been tested on Debian-based and Arch Linux.
 
-`sudo apt install suckless-tools`
+``` bash
+sudo apt install suckless-tools
+```
 
-`sudo apt install cool-retro-term`
+```bash
+sudo apt install cool-retro-term
+```
 
-`sudo apt install zathura`
+```bash
+sudo apt install zathura
+```
 
-`sudo apt install groff`
+```bash
+sudo apt install groff
+```
 
-`sudo apt install fzf`
+```bash
+sudo apt install fzf
+```
 
 
 ## Or in one line: 
