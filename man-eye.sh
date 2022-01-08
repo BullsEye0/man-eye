@@ -1,13 +1,18 @@
 #!/bin/bash
 
-# ▀█████████▄     ▄████████         Websites: Bullseye0.com | HackingPassion.com
+# ===== #
+#   
+# ▀█████████▄     ▄████████         Websites: HackingPassion.com | Bullseye0.com
 #   ███    ███   ███    ███         Author: Jolanda de Koff | Bulls Eye
 #   ███    ███   ███    █▀          GitHub: https://github.com/BullsEye0
 #  ▄███▄▄▄██▀   ▄███▄▄▄             linkedin: https://www.linkedin.com/in/jolandadekoff
 # ▀▀███▀▀▀██▄  ▀▀███▀▀▀             Facebook Group: https://www.facebook.com/groups/hack.passion/
-#   ███    ██▄   ███    █▄          Facebook: facebook.com/jolandadekoff
-#   ███    ███   ███    ███         YouTube: https://www.youtube.com/channel/UCeHez_7Bkwh7ve4pW2EQJrw
-# ▄█████████▀    ██████████         LBRY: https://lbry.tv/$/invite/@bullseye0:f
+#   ███    ██▄   ███    █▄          Facebook: https://www.facebook.com/profile.php?id=100069546190609
+#   ███    ███   ███    ███         Twitter: https://twitter.com/bulls__eye
+# ▄█████████▀    ██████████         LBRY: https://lbry.tv/$/invite/@hackingpassion:9
+#                                   Patreon: https://www.patreon.com/jolandadekoff
+#          Bulls Eye..!
+# ===== #
 
 # Learn Linux Through Man Pages
 # How cool would it be to learn Linux through the man pages
